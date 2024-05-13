@@ -1,0 +1,8 @@
+C:\Users\VARAD\source\repos\Midterm_2131419\obj\Debug\Midterm_2131419.csproj.AssemblyReference.cache
+C:\Users\VARAD\source\repos\Midterm_2131419\obj\Debug\Midterm_2131419.csproj.SuggestedBindingRedirects.cache
+C:\Users\VARAD\source\repos\Midterm_2131419\obj\Debug\Midterm_2131419.csproj.CoreCompileInputs.cache
+C:\Users\VARAD\source\repos\Midterm_2131419\bin\Debug\Midterm_2131419.exe.config
+C:\Users\VARAD\source\repos\Midterm_2131419\bin\Debug\Midterm_2131419.exe
+C:\Users\VARAD\source\repos\Midterm_2131419\bin\Debug\Midterm_2131419.pdb
+C:\Users\VARAD\source\repos\Midterm_2131419\obj\Debug\Midterm_2131419.exe
+C:\Users\VARAD\source\repos\Midterm_2131419\obj\Debug\Midterm_2131419.pdb
